@@ -36,3 +36,7 @@ Labs are very large and have amazing personalities. They happen to sneeze whenev
 
 </body>
 </html>
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
